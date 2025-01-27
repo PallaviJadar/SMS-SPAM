@@ -1,3 +1,11 @@
+SNAPSHOTS...
+![Screenshot (54)](https://github.com/user-attachments/assets/f84655b4-cb5d-4395-b306-d424124182b2)
+
+![Screenshot (55)](https://github.com/user-attachments/assets/bfb97932-54d5-4df1-b67b-55bc4fec0214)
+
+![Screenshot (56)](https://github.com/user-attachments/assets/8e2bb02d-56c6-403c-86a2-159f117f7988)
+
+
 Sure! Below is a template for your `README.md` file based on your project **SMS Spam Classifier**:
 
 ```markdown
